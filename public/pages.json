@@ -1,0 +1,18 @@
+[
+        {
+          "character": "@/assets/Sander-de-slaapapneu-patient.svg",
+          "title": "Option 1",
+          "description": "This is the description for Option 1."
+        },
+        {
+          "character": "@/assets/Sander-de-slaapapneu-patient.svg",
+          "title": "Option 2",
+          "description": "This is the description for Option 2."
+        },
+        {
+          "character": "@/assets/Sander-de-slaapapneu-patient.svg",
+          "title": "Option 3",
+          "description": "This is the description for Option 3."
+        }
+      ]
+      
